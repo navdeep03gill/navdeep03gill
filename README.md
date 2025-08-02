@@ -1,15 +1,15 @@
 ### <h1> Hi there, I'm Navdeep👋  </h1>
 
 ## 💫 &nbsp;About Me 
-📚 Computer Science Student @ University of Waterloo<br>
-💻 Aspiring Software Engineer passionate about building scalable and impactful solutions.<br>
-🏀 🏑 🤼‍♂️ 🧗‍♂️ Avid athlete – I enjoy basketball, field hockey, jiu-jitsu, and rock climbing.<br>
+📚 BSc Computer Science @ University of Waterloo<br>
+💻 Software Engineer passionate about building scalable and impactful solutions.<br>
+🏀 🏑 🤼‍♂️ 🧗‍♂️ Avid athlete in basketball, field hockey, jiu-jitsu, and rock climbing.<br>
 
 ## 🌐 Get in touch with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navdeep-g) 
 
-## 🗂️ Check out my latest resume (Fall 2025 SWE Internships)
-[Navdeep Resume](https://drive.google.com/file/d/1kzhJ9G3FuziJn2Sk2_luqUHXIKUl8Oxx/view?usp=sharing)
+## 🗂️ Check out my latest resume (2026 New Grad SWE)
+[Navdeep Resume](https://drive.google.com/file/d/1X217qTDPQZ9_oGYGkpIUqQzcFLq0Z56u/view?usp=sharing)
 
 # 💻 Tech Stack:
 Languages: Python, C++, TypeScript, Go, Scala, Java, C#, Bash, R, HTML, CSS
