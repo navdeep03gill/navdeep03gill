@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navdeep-g) 
 
 ## 🗂️ Check out my latest resume (2026 New Grad SWE)
-[Navdeep Resume](https://drive.google.com/file/d/1sEd20QZbHD4OzzSzyRNl6Jraw6Z2ppFh/view?usp=sharing)
+[Navdeep Resume](https://drive.google.com/file/d/11hg1RKkggo8d_uHyV386lTFwy4iivN3n/view?usp=sharing)
 
 # 💻 Tech Stack:
 Languages: Python, C++, TypeScript, Go, Scala, Java, C#, Bash, R, HTML, CSS
